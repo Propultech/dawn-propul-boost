@@ -144,12 +144,10 @@
     },
     "content_for_index": [],
     "blocks": {
-      "5419952609722095102": {
-        "type": "shopify://apps/gift-box/blocks/head/f53ea332-e066-453a-9116-800349284dfb",
+      "14041968213898805026": {
+        "type": "shopify://apps/aov-ai-free-gift-bxgy/blocks/app-embed-free-gift/de98edfe-90fa-4145-8a57-1055e0058723",
         "disabled": false,
-        "settings": {
-          "script_load_mode": "async"
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
